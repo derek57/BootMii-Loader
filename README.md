@@ -7,7 +7,6 @@ Included portions:
 
 * ECC tool
 * BIN2C tool
-* Original BootMii WAD binary from NAND blocks 3 & 4 of a boot2 installation
 * Preloader
 * Main BootMii loader
 * Memory freeing potion
