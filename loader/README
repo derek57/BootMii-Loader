@@ -1,0 +1,13 @@
+BootMii Loader
+Copyright (c) 2023, nitr8
+
+BootMii Loader is just what it's name tells.
+
+It basically runs from within MEM1 and creates
+a new ARMBOOT binary which is required to run
+BootMii successfully using NANDBoot and the
+SystemMenu on a regular Wii.
+
+Using NANDBoot, BootMii Loader allows to run
+BootMii on ANY Wii - no matter if that Wii has
+a vulnerable boot2 or not...

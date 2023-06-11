@@ -1,0 +1,7 @@
+FreeMem
+Copyright (c) 2023, nitr8
+
+FreeMem is responsible for clearing out the memory
+area that was previously used by BootMii Loader.
+
+There's nothing too special to see here...
